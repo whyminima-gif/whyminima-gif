@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/1n4FT4jRMASEW0tU2A/giphy.gif" alt="Anime Banner" width="100%" height="250" style="object-fit: cover; border-radius: 10px;"/>
+  <img src="<img width="735" height="461" alt="download" src="https://github.com/user-attachments/assets/366caf24-0221-40cf-8aac-fa37e6b7ca5d" />
+" alt="Anime Banner" width="100%" height="250" style="object-fit: cover; border-radius: 10px;"/>
   
   <h1>⛩️ Hi 👋, I'm Kushal Gupta ⛩️</h1>
   <h3><i>Forging code, mastering the frontend arts</i></h3>
