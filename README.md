@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKoWXm3okO1kgHC/giphy.gif" alt="Anime Banner" width="100%" height="250" style="object-fit: cover; border-radius: 10px;"/>
+  <img src="https://media.giphy.com/media/1n4FT4jRMASEW0tU2A/giphy.gif" alt="Anime Banner" width="100%" height="250" style="object-fit: cover; border-radius: 10px;"/>
   
   <h1>⛩️ Hi 👋, I'm Kushal Gupta ⛩️</h1>
   <h3><i>Forging code, mastering the frontend arts</i></h3>
